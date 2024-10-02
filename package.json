@@ -1,0 +1,21 @@
+{
+    "name": "colorstolayers",
+    "displayName": "Colors to Layers",
+    "description": "Define colors for groups and layers",
+    "version": "1.0",
+    "author": {
+        "name": "OakGC",
+        "email": "oakgco@gmail.com"
+    },
+    "contributors": [ ],
+    "publisher": "oakgc",
+    "license": "MIT",
+    "categories": ["Scripts"],
+    "contributes": {
+        "scripts": [
+            { 
+                "path": "./colorstolayers.lua" 
+            }
+        ]
+    }
+}

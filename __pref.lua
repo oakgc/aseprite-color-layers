@@ -1,0 +1,1 @@
+return {AlwaysPaintColorGroup=false,AlwaysRemoveColorGroup=false,NameNewColors=nil,NewColors=nil}
