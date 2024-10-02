@@ -20,7 +20,7 @@ function DialogAutomations:ShowMenu()
     dialogSeetings:newrow()
     dialogSeetings:check{
         id="checkRemoveColorGroup",
-        text = "Always REMOVE PAINT of group layer and the layers inside.",
+        text = "Always CLEAN PAINT of group layer and the layers inside.",
         selected = seetingsAlwaysRemoveColorGroup,
         onclick = function()
             seetingsAlwaysRemoveColorGroup = dialogSeetings.data.checkRemoveColorGroup
